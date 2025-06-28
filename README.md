@@ -64,7 +64,7 @@ Website ini adalah *personal web* milik Adam Faturrachman yang menampilkan artik
 ![Kelola About](screenshots/kelola_about.png)
 
 ### 8. Kelola Galeri  
-![Kelola Galeri](screenshots/kelola_galeri.png)
+![Kelola Galeri](screenshots/kelola_gallery.png)
 
 ## 🧰 Teknologi yang Digunakan
 - *Frontend*: HTML5, Tailwind CSS v4.0  
