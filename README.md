@@ -43,7 +43,7 @@ Website ini adalah *personal web* milik Adam Faturrachman yang menampilkan artik
 ## 📷 Screenshot Tampilan
 
 ### 1. Beranda  
-![Beranda](screenshots/beranda)
+![Beranda](screenshots/beranda.png)
 
 ### 2. Galeri Foto  
 ![Galeri](screenshots/gallery.png)
